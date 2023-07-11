@@ -1,7 +1,5 @@
 # Tienda-online-php-mvc-y-mysql
-![tienda](https://github.com/VidaInformatico/Tienda-online-php-mvc-y-mysql/assets/71534078/45665834-0ba0-4537-bb09-ae711cf65991)
-
-
+![tienda](https://github.com/VidaInformatico/Tienda-online-PHP-mvc-y-Mysql/assets/71534078/13df062f-c63d-4ca7-9437-d1bcc5acf4a9)
 
 ## Configuración
 
