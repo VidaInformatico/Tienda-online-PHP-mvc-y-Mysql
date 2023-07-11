@@ -39,6 +39,7 @@ class Clientes extends Controller
                     $hash = password_hash($clave, PASSWORD_DEFAULT);
                     $data = $this->model->registroDirecto($nombre, $correo, $hash, $token);
                     if ($data > 0) {
+                        $_SESSION['idCliente'] = $data;
                         $_SESSION['correoCliente'] = $correo;
                         $_SESSION['nombreCliente'] = $nombre;
                         $mensaje = array('msg' => 'registrado con éxito', 'icono' => 'success', 'token' => $token);
