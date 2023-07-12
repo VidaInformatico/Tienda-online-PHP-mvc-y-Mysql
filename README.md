@@ -3,10 +3,10 @@
 
 ## Configuración
 
-Install Phpmailer
+Instalación de Phpmailer
 
 ```bash
-  composer Install
+  composer install
 ```
     
 ## Credenciales de acceso
